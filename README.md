@@ -1,1 +1,1 @@
-ASEN 1320
+ASEN 1320 Spring 2020
